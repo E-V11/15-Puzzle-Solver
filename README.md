@@ -64,8 +64,3 @@ On launch the program runs all tests then prompts the user to choose benchmark o
     │   └── paper.pdf
     ├── .gitignore
     └── README.md
-
-## Further Reading
-
-A full technical writeup covering the algorithms, heuristics, solvability theory, and mathematical foundations is available in docs/paper.pdf.
-  
